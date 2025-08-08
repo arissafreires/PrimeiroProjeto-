@@ -1,19 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
-bory{
+body{
     background-color: lightpink;
 }
 h1{
   color:rgb(228, 219, 143);
-  font-size: 60px;
   text-align: center;
-  font-family: DM Serif Text Static;
+  font-size: 60px;
 }
 p{
     color:rgb(68, 58, 133);
-    font-size: 40px;
     text-align: center;
+    font-size: 40px;
 }
 img{
-    with: 50%;
-    margin-left: 450px;
+    margin-left: 660px;
+    width: 60%;
 }
